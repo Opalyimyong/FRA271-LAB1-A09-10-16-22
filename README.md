@@ -46,6 +46,8 @@
 4. รอจน MATLAB ติดตั้ง Waijung block library เสร็จ แล้ว restart MATLAB
 5. ตรวจสอบว่ามี Waijung library ขึ้นใน Simulink Library Browser
 
+หมายเหตุ ไฟล์ waijung_18.11a.7z ควรมีขนาดประมาณ 230MB หากไม่ถึงสามารถโหลดไฟล์ได้ที่นี่ [google drive](https://drive.google.com/file/d/1DEgjbzQZ2TtvEs-B2uCQ2fSoW7-jOOSZ/view?usp=sharing)
+
 ## 4. การตั้งค่า Simulink เบื้องต้น
 
 เปิดไฟล์ `sensorExpoler.slx` แล้วตั้งค่าดังนี้:
