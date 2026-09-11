@@ -11,11 +11,11 @@
       <name>stm32f4</name>
       <description>STM32F4 Target</description>
       <path>
-         <root>C:\\Users\\Asus\\OneDrive\\Desktop\\TA RMX\\LAB1 prepairation\\Dev New Lab1 Sensor 2026\\waijung_18.11a\\targets\\stm32f4_target\\stm32f4</root>
+         <root>D:\\ข้อมูลงานเสนอครู\\RMX\\Lab1\\FRA271-LAB1-A09-10-16-22\\waijung_18.11a\\waijung_18.11a\\targets\\stm32f4_target\\stm32f4</root>
          <source>${target/path/root}\src</source>
          <sourceBlocks>${target/path/source}\blocks</sourceBlocks>
          <utils>${target/path/root}\utils</utils>
-         <stlinkutilitybin>C:\\Users\\Asus\\OneDrive\\Desktop\\TA RMX\\LAB1 prepairation\\Dev New Lab1 Sensor 2026\\waijung_18.11a\\utils\\devices\\ST_LINK_Utility\\ST-LINK Utility</stlinkutilitybin>
+         <stlinkutilitybin>D:\\ข้อมูลงานเสนอครู\\RMX\\Lab1\\FRA271-LAB1-A09-10-16-22\\waijung_18.11a\\waijung_18.11a\\utils\\devices\\ST_LINK_Utility\\ST-LINK Utility</stlinkutilitybin>
       </path>
       <customization>
          <name>cortexm4</name>
@@ -34,9 +34,11 @@
          <incpath>arm\\CMSIS\\Include;arm\\inc\\c</incpath>
       </ewarm>
       <gnuarm>
-         <root>C:\\Users\\Asus\\OneDrive\\Desktop\\TA RMX\\LAB1 prepairation\\Dev New Lab1 Sensor 2026\\waijung_18.11a\\utils\\gnu_tools_arm_embedded</root>
-         <binpath>C:\\Users\\Asus\\OneDrive\\Desktop\\TA RMX\\LAB1 prepairation\\Dev New Lab1 Sensor 2026\\waijung_18.11a\\utils\\gnu_tools_arm_embedded\\bin</binpath>
-         <incpath>C:\\Users\\Asus\\OneDrive\\Desktop\\TA RMX\\LAB1 prepairation\\Dev New Lab1 Sensor 2026\\waijung_18.11a\\utils\\aimagin\\gnuarminc;C:\\Users\\Asus\\OneDrive\\Desktop\\TA RMX\\LAB1 prepairation\\Dev New Lab1 Sensor 2026\\waijung_18.11a\\targets\\stm32f4_target\\stm32f4\\utils\\STM32F4xx_DSP_StdPeriph_Lib\\Libraries\\CMSIS\\Include</incpath>
+         <root>D:\\ข้อมูลงานเสนอครู\\RMX\\Lab1\\FRA271-LAB1-A09-10-16-22\\waijung_18.11a\\waijung_18.11a\\utils\\gnu_tools_arm_embedded</root>
+         <binpath>D:\\ข้อมูลงานเสนอครู\\RMX\\Lab1\\FRA271-LAB1-A09-10-16-22\\waijung_18.11a\\waijung_18.11a\\utils\\gnu_tools_arm_embedded\\bin</binpath>
+         <incpath>D:\\ข้อมูลงานเสนอครู\\RMX\\Lab1\\FRA271-LAB1-A09-10-16-22\\waijung_18.11a\\waijung_18.11a\\utils\\aimagin\\gnuarminc;D:\\ข้อมูลงานเสนอครู\\RMX\\Lab1\\FRA271-LAB1-A09-10-16-22\\waijung_18.11a\\waijung_18.11a\\targets\\stm32f4_target\\stm32f4\\utils\\STM32F4xx_DSP_StdPeriph_Lib\\Libraries\\CMSIS\\Include</incpath>
+         <version>gcc version 7.2.1 20170904 (release) [ARM/embedded-7-branch revision 255204] (GNU Tools for Arm Embedded Processors 7-2017-q4-major)  
+</version>
       </gnuarm>
    </compilers>
    <tables type="waijung_dat">
